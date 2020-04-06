@@ -1,3 +1,32 @@
+<style type=stile/css>
+p {
+  font-family:italic;
+}
+ .titolo{ 
+	font-family:italic;
+	font-size:32px; 
+	font-weight:bolder;
+	position:absolute;
+	top: 15%;
+	left:35%
+	color: green;
+	}
+.titolo1{ 
+	font-family:italic;
+	font-size:32px; 
+	font-weight:bolder;
+	position:absolute;
+	top: 15%;
+	left:45%
+	color: green;
+	}
+.classe{
+	color: white;
+	position:absolute;
+	top: 2%;
+	left 5%;
+}
+
 .autori{
 	color: white;
 	position: absolute;
@@ -39,4 +68,31 @@ p2{
 	right:40%;
 }
 
-</style>
+.cell{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	height:20%;
+}
+
+.media{
+	position: absolute;
+	top: 20%;
+	right: 5%;
+	widht: 10%;
+}
+
+.stranaaa{
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	widht: 10%;
+}
+
+.doppiapresa{
+	position: absolute;
+	top: 40%;
+	right: 5%;
+	widht: 10%;
+}
+</style>>
