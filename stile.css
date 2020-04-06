@@ -1,25 +1,24 @@
 <style type=stile/css>
-<link rel="stylesheet" type="text/css" href="stile.css"/>
 p {
   font-family:italic;
 }
  .titolo{ 
 	font-family:italic;
-	color:green;
 	font-size:32px; 
 	font-weight:bolder;
 	position:absolute;
 	top: 15%;
-	left:35%;
+	left: 35%;
+	color: green;
 	}
 .titolo1{ 
 	font-family:italic;
-	color: green;
 	font-size:32px; 
 	font-weight:bolder;
 	position:absolute;
-	top: 15%;
-	left:45%;
+	top: 40%;
+	left:46%;
+	color: green;
 	}
 .classe{
 	color: white;
@@ -56,6 +55,7 @@ p2{
 	color: red;
 }
 
+
 .primo{
 	background-color: yellow;
 	position:absolute;
@@ -80,20 +80,41 @@ p2{
 	position: absolute;
 	top: 20%;
 	right: 5%;
-	widht: 10%;
+	height:20%;
 }
 
 .stranaaa{
 	position: absolute;
-	top: 40%;
+	top: 60%;
 	left: 5%;
-	widht: 10%;
+	height:20%;
 }
 
 .doppiapresa{
 	position: absolute;
-	top: 40%;
+	top: 60%;
 	right: 5%;
-	widht: 10%;
+	height:20%;
 }
+.testo1{
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+.testo2{
+	position: absolute;
+	top: 20%;
+	right: 17%;
+}
+.testo3{
+	position: absolute;
+	top: 60%;
+	left: 17%;
+}
+.testo5{
+	position: absolute;
+	top: 60%;
+	right: 20%;
+}
+
 </style>
