@@ -1,8 +1,9 @@
 <style type=stile/css>
+<link rel="stylesheet" type="text/css" href="stile.css"/>
 p {
   font-family:italic;
 }
- p3{ 
+ .titolo{ 
 	font-family:italic;
 	font-size:32px; 
 	font-weight:bolder;
