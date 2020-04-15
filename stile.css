@@ -11,6 +11,63 @@ p {
 	left: 35%;
 	color: green;
 	}
+ .titolo2{ 
+	font-family:italic;
+	font-size:32px; 
+	font-weight:bolder;
+	position:absolute;
+	top: 12%;
+	left: 45%;
+	color: red;
+	}
+.type{
+	position: absolute;
+	top: 22%;
+	left: 15%;
+	color: green;
+}
+.device{
+	position: absolute;
+	top: 28%;
+	left: 20%;
+	color: green;
+}
+.connector{
+	position: absolute;
+	top: 34%;
+	left: 25%;
+	color: green;
+}
+.features0{
+	position: absolute;
+	top: 22%;
+	right: 15%;
+	color: green;
+}
+.features1{
+	position: absolute;
+	top: 26%;
+	right: 15%;
+	color: green;
+}
+.features2{
+	position: absolute;
+	top: 30%;
+	right: 15%;
+	color: green;
+}
+.features3{
+	position: absolute;
+	top: 34%;
+	right: 15%;
+	color: green;
+}
+.pin{
+	position: absolute;
+	top: 40%;
+	left: 35%;
+	height:50%;
+}
 .titolo1{ 
 	font-family:italic;
 	font-size:32px; 
@@ -69,13 +126,6 @@ p2{
 	right:40%;
 }
 
-.terzo{
-	background-color: yellow;
-	position:absolute;
-	top:10px;
-	right:20%;
-}
-
 .cell{
 	position: absolute;
 	top: 20%;
@@ -122,6 +172,12 @@ p2{
 	position: absolute;
 	top: 60%;
 	right: 20%;
+}
+.terzo{
+	background-color: yellow;
+	position:absolute;
+	top:10px;
+	right:20%;
 }
 
 </style>
