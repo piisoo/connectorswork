@@ -69,6 +69,13 @@ p2{
 	right:40%;
 }
 
+.terzo{
+	background-color: yellow;
+	position:absolute;
+	top:10px;
+	right:20%;
+}
+
 .cell{
 	position: absolute;
 	top: 20%;
